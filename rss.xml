@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Mekis Opals]]></title>
         <description><![CDATA[Mekis Opals]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mekis-opals/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 21:08:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 21:16:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mekis-opals/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b12e51cf-e550-4c31-8e16-f58f9f986d92.jpg">]]></description>
+            <link>https://thegrid.ai/mekis-opals/about-daniel-mekis/index.html</link>
+            <guid isPermaLink="false">b7c0cf08-c094-407c-a7a8-f2e6aee9ddc6</guid>
+            <pubDate>Mon, 09 May 2016 21:16:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4406b66-8b5b-4551-a3be-3f0f0d3c977c.jpg">]]></description>
-            <link>undefinedopal-at-its-finest/index.html</link>
+            <link>https://thegrid.ai/mekis-opals/opal-at-its-finest/index.html</link>
             <guid isPermaLink="false">cc3f58e1-aef0-4999-b190-7f780b1c7283</guid>
             <pubDate>Mon, 09 May 2016 21:08:23 GMT</pubDate>
         </item>
