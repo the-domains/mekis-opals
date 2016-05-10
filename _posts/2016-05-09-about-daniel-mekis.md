@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: About Daniel Mekis
-datePublished: '2016-05-10T17:16:55.579Z'
-dateModified: '2016-05-10T17:16:03.800Z'
+datePublished: '2016-05-10T17:42:26.274Z'
+dateModified: '2016-05-10T17:42:15.378Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-about-daniel-mekis.md
@@ -37,3 +37,7 @@ Why is the Cat Dozer yellow you ask? Well that depends on your assumption. Are y
 green mossy moss hanging there
 
 droplets of water
+
+pull on your delicate limbs
+
+A Haiku - by Daniel Mekis
